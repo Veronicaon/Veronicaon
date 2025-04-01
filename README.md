@@ -31,15 +31,18 @@
 
 ![GreenHarvest-project](images//image2.png)
 
-# [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
-<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
-</p>
+# [WebStudio](https://veronicaon.github.io/goit-markup-hw-06/) 
 
-* PUMB Online - A native iOS online banking app which helps people to manage their finance
-* PUMB Online has more than 1 000 000 users, #5 finance app in Ukrainian AppStore, rating 4.8. Crash free users - 99.89 %
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/93138739-516e5780-f694-11ea-8578-3f16db1bc263.png" width="930" title="PUMBOnline">
+* WebStudio is a responsive multi-page website for a digital agency.
+
+ *  Technologies: HTML, CSS (Flexbox)
+ *  Features: semantic layout, adaptive design, interactive elements
+ *  Implemented: main page with sections,
+
+![GreenHarvest-project](images//image2.png)
+
+
 
 
 
