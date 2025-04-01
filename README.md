@@ -20,16 +20,16 @@
 ![GreenHarvest-project](images//image1.png)
 
 
-# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
-<p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
-</p>
+# [WebStudio](https://veronicaon.github.io/goit-markup-hw-06/) 
 
-* DroneMobile - A native iOS IoT application used to remotely control vehicle
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png" width="930" title="DroneMobile">
+* WebStudio is a responsive multi-page website for a digital agency.
 
-</p>
+ *  Technologies: HTML, CSS (Flexbox)
+ *  Features: semantic layout, adaptive design, interactive elements
+ *  Implemented: main page with sections,
+
+![GreenHarvest-project](images//image2.png)
 
 # [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
 <p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
