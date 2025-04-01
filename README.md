@@ -1,6 +1,6 @@
 
 
-# [DMV Test Prep](images//https://github.com/Veronicaon/Veronicaon/blob/main/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-31%20194413.png?raw=true) 
+![DMV Test Prep](images//https://github.com/Veronicaon/Veronicaon/blob/main/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-31%20194413.png?raw=true) 
 <p align="left"> <a href="https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >  <a href="https://play.google.com/store/apps/details?id=app.testologie.dmv" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
 </p>
 
@@ -10,7 +10,6 @@
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180520043-f54ad385-3d75-441a-95d3-ecd5b0cc548d.png" width="930" title="DMV Test Prep">
 
 </p>
 
