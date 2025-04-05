@@ -38,11 +38,11 @@
  *  I styled the headers, sections, buttons, and used Flexbox to position elements.
  *  I worked with fonts, colors, and responsiveness.
 
-![Resume](images//image2.png)
+![Resume](images//image3.png)
 
 ## Thanks for stopping by!
 
 # Contact Info:
 
-- Email: Veronikatuzik@gmail.com
-- LinkedIn: [Veronicaon](https://www.linkedin.com/in/veronika-tuzhyk-534249302/)
+- Email:veronikatuzik@gmail.com
+- LinkedIn:[Veronicaon](https://www.linkedin.com/in/veronika-tuzhyk-534249302/)
