@@ -31,24 +31,18 @@
 
 ![GreenHarvest-project](images//image2.png)
 
-# [WebStudio](https://veronicaon.github.io/goit-markup-hw-06/) 
+# [Resume](http://127.0.0.1:5500/index.html) 
 
 
-* WebStudio is a responsive multi-page website for a digital agency.
+ *  I designed a resume from scratch using HTML and CSS. 
+ *  I styled the headers, sections, buttons, and used Flexbox to position elements.
+ *  I worked with fonts, colors, and responsiveness.
 
- *  Technologies: HTML, CSS (Flexbox)
- *  Features: semantic layout, adaptive design, interactive elements
- *  Implemented: main page with sections,
-
-![GreenHarvest-project](images//image2.png)
-
-
-
-
+![Resume](images//image2.png)
 
 ## Thanks for stopping by!
 
 # Contact Info:
 
-- Email: decodealex1@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+- Email: Veronikatuzik@gmail.com
+- LinkedIn: [Veronicaon](https://www.linkedin.com/in/veronika-tuzhyk-534249302/)
