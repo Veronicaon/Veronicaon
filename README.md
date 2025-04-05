@@ -31,7 +31,7 @@
 
 ![GreenHarvest-project](images//image2.png)
 
-# [Resume](http://127.0.0.1:5500/index.html) 
+# [Resume](https://drive.google.com/drive/folders/1MN_DNfIu5YwsA7d8rtfZpgVdWTjdyUJ8?usp=drive_link) 
 
 
  *  I designed a resume from scratch using HTML and CSS. 
